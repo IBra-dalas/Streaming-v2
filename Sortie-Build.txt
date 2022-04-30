@@ -1,0 +1,4 @@
+﻿1>------ Début de la génération : Projet : GestionEmail, Configuration : Debug Any CPU ------
+1>  La référence COM 'WMPLib' est l'assembly d'interopérabilité pour le contrôle ActiveX 'AxWMPLib', mais elle a été marquée comme étant liée au compilateur avec l'indicateur /link. Cette référence COM sera traitée comme une référence, mais ne sera pas liée.
+1>C:\Users\dialloi\Documents\Mes Projets\GestionEmail\GestionEmail\FrmContact.cs(28,23,28,28): warning CS0649: Le champ 'FrmContact.video' n'est jamais assigné et aura toujours sa valeur par défaut null
+1>  GestionEmail -> C:\Users\dialloi\Documents\Mes Projets\GestionEmail\GestionEmail\bin\Debug\GestionEmail.exe
